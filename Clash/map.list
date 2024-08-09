@@ -1,2 +1,10 @@
-DST-PORT,443
-DST-PORT,80
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,amazonaws.com
